@@ -1,0 +1,2 @@
+%sql 
+SELECT p.order_id FROM ulvr_prod_coremodel.dim_product p LIMIT 100;
